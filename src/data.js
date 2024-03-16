@@ -6,21 +6,21 @@ import stateImg from './assets/state-mgmt.png';
 export const CORE_CONCEPTS = [
   {
     image: componentsImg,
-    title: 'Components',
+    title: 'Hvorfor?',
     description:
-      'The core UI building block - compose the user interface by combining multiple components.',
+      'Danmarks bedste webapp til smagning!',
   },
   {
     image: jsxImg,
-    title: 'JSX',
+    title: 'Hvornår?',
     description:
-      'Return (potentially dynamic) HTML(ish) code to define the actual markup that will be rendered.',
+      'Maj 2024.',
   },
   {
     image: propsImg,
-    title: 'Props',
+    title: 'Pris',
     description:
-      'Make components configurable (and therefore reusable) by passing input data to them.',
+      'Det er gratis at bruge!',
   },
   {
     image: stateImg,

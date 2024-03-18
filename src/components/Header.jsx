@@ -14,7 +14,7 @@ function Header() {
         <div>
 <header>
 <img src={reactImg} alt="Stylized atom" />
-<h1>React Informations Side.</h1>
+<h1>IT Kartellet App</h1>
 <p>
   {description} Bruges som delprodukt til 4. Semester...
 </p>

@@ -6,25 +6,25 @@ import stateImg from './assets/state-mgmt.png';
 export const CORE_CONCEPTS = [
   {
     image: componentsImg,
-    title: 'Hvad har jeg lært?',
+    title: 'Hvorfor',
     description:
-      'Om komponenter osv.',
+      'Det gør alt nemmere',
   },
   {
     image: jsxImg,
-    title: 'Blazor vs React',
+    title: 'Hvad er dette?',
     description:
-      'React er bedre, men C# > JS.',
+      'App til forskellige ting',
   },
   {
     image: propsImg,
-    title: 'Hvor kan jeg lære?',
+    title: 'Hvad er IT Kartellet?',
     description:
-      'Udemy.Rigtig god kursus faktisk.',
+      'IT Kartellet er en virksomhed.',
   },
   {
     image: stateImg,
-    title: 'State',
+    title: 'States',
     description:
       'React-managed data which, when changed, causes the component to re-render & the UI to update.',
   },

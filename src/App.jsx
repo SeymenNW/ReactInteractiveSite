@@ -1,8 +1,6 @@
 import CoreConcepts from './components/CoreConcepts.jsx';
 import Header from './components/Header.jsx';
 
-
-
 function App() {
 
   return (

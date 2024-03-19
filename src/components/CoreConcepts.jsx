@@ -9,11 +9,10 @@ function CoreConcepts() {
     return (
         <div>
         <section id="core-concepts">
-        <h2>{CORE_CONCEPTS[4].maintitle}</h2>
+        <h2>Random Informationer</h2>
 <ul>
-  <CoreConcept {...CORE_CONCEPTS[0]}/>
-  <CoreConcept title={CORE_CONCEPTS[1].title} description={CORE_CONCEPTS[1].description} image={componentsImg}/>
-  <CoreConcept title={CORE_CONCEPTS[2].title} description={CORE_CONCEPTS[2].description} image={componentsImg}/>
+  {CORE_CONCEPTS.map((conceptItem) => <CoreConcept key={conceptItem.title} {...conceptItem}></CoreConcept> )}
+
 </ul>
         </section>
         </div>

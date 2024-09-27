@@ -1,5 +1,5 @@
 {
-  "youTubeStatus": "Currently YouTube is broken (Due to external factors)",
+  "youTubeStatus": "Currently YouTube is broken due to the fact that the YouTubeExplode Library has stopped working. I think the dev is looking into it.",
   "twitterStatus": "Twitter currently not implemented",
   "tikTokStatus": "TikTok is 100% FULLY operational!"
 }
